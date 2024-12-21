@@ -1,4 +1,4 @@
-**<span style="font-size: 24px;">Hi, I'm Mritunjay Singh, a Fullstack Developer from India.</span>**  
+**<h1 style="font-size: 24px;">Hi, I'm Mritunjay Singh, a Fullstack Developer from India.</h1>**  
 # 💫 About Me:
 I'm currently learning DSA and DevOps.
 
